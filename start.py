@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL situs web target (ganti dengan situs web yang diizinkan untuk di-scrape)
-url = "https://example.com"
+url = "tarna-wijaya.vercel.app"
 
 # Mengirim permintaan HTTP ke situs web
 response = requests.get(url)
